@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 let cacheTTL = 24 ;//小时，缓存时长
 
-//节点链接 + 订阅链接//
+//节点链接 + 订阅链接
 let MainData = `
 vless://5ab3c025-124d-4746-e086-18a77f7aba31@96.45.188.130:37308?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&type=tcp&headerType=none#lnl%7C9Vbr.love%40xray.com
 vless://3d10ea2f-4b32-4d49-b724-075e92762dab@45.76.74.41:52230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none#ln%7CwCGo.love%40xray.com
