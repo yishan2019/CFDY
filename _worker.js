@@ -21,7 +21,7 @@ vless://a97c5536-dec2-47f7-9062-9ae3587ef5d0@64.176.211.140:41007?encryption=non
 vless://605f6f73-458b-4aeb-ecb6-d56fb0cc7a74@144.34.172.30:25240?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#syb%7ChEN5.love%40xray.co
 vless://56a3096c-e9a2-4e80-b893-a63c54cd3a29@198.13.53.63:27586?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#shentoko%7CQMRX.love%40xray.com
 vless://57d19911-36d3-4398-fb7e-ae385d24da82@45.76.75.72:47000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#shenVULTR%7C3nGj.love%40xray.com
-vless://d8fda651-292a-4bfb-cfb7-073496cb07f4@158.247.231.183:47000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#shenKro%7CPT9Q.love%40xray.com
+vless://0a0b625a-dd5a-4de3-eebd-acebb140bf4e@167.179.85.73:10392?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#TOKO%7CQpCB.love%40xray.com
 '
 
 let urls = [];
