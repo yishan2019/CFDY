@@ -12,13 +12,13 @@ let timestamp = 4102329600000;//2099-12-31
 
 let cacheTTL = 24 ;//小时，缓存时长
 
-//节点链接 + 订阅链接
+//节点链接 + 订阅链接//
 let MainData = `
 vless://5ab3c025-124d-4746-e086-18a77f7aba31@96.45.188.130:37308?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&type=tcp&headerType=none#lnl%7C9Vbr.love%40xray.com
 vless://3d10ea2f-4b32-4d49-b724-075e92762dab@45.76.74.41:52230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none#ln%7CwCGo.love%40xray.com
 vless://6291b284-79c2-48e5-e4df-b8ebc3d83c41@144.34.175.197:15211?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#BWG%7CxW16.love%40xray.com
 vless://a97c5536-dec2-47f7-9062-9ae3587ef5d0@64.176.211.140:41007?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&type=tcp&headerType=none#siwuxie%7CNi2W.love%40xray.com
-vless://605f6f73-458b-4aeb-ecb6-d56fb0cc7a74@144.34.172.30:25240?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#syb%7ChEN5.love%40xray.co
+vless://605f6f73-458b-4aeb-ecb6-d56fb0cc7a74@144.34.172.30:25240?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#syb%7ChEN5.love%40xray.com
 vless://56a3096c-e9a2-4e80-b893-a63c54cd3a29@198.13.53.63:27586?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#shentoko%7CQMRX.love%40xray.com
 vless://57d19911-36d3-4398-fb7e-ae385d24da82@45.76.75.72:47000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#shenVULTR%7C3nGj.love%40xray.com
 vless://0a0b625a-dd5a-4de3-eebd-acebb140bf4e@167.179.85.73:10392?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#TOKO%7CQpCB.love%40xray.com
