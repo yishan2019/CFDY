@@ -20,7 +20,6 @@ vless://57d19911-36d3-4398-fb7e-ae385d24da82@45.76.75.72:47000?encryption=none&f
 vless://7c6ea48f-02f5-4655-b7f3-8b5988ee41a4@96.45.188.130:40000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=hHlDJO_EZuNZryvEwMtwU14wnPoigSdCvQ7OGVLZmX4&sid=891c04b5&spx=%2F&type=tcp&headerType=none#%E6%90%AC%E7%93%A6%E5%B7%A5-LNL
 vless://a97c5536-dec2-47f7-9062-9ae3587ef5d0@64.176.211.140:41007?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&type=tcp&headerType=none#siwuxie%7CNi2W.love%40xray.com
 `
-
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
