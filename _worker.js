@@ -19,8 +19,6 @@ vless://3d10ea2f-4b32-4d49-b724-075e92762dab@45.76.74.41:52230?encryption=none&f
 vless://57d19911-36d3-4398-fb7e-ae385d24da82@45.76.75.72:47000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#shenVULTR%7C3nGj.love%40xray.com
 vless://7c6ea48f-02f5-4655-b7f3-8b5988ee41a4@96.45.188.130:40000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=hHlDJO_EZuNZryvEwMtwU14wnPoigSdCvQ7OGVLZmX4&sid=891c04b5&spx=%2F&type=tcp&headerType=none#%E6%90%AC%E7%93%A6%E5%B7%A5-LNL
 vless://a97c5536-dec2-47f7-9062-9ae3587ef5d0@64.176.211.140:41007?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&type=tcp&headerType=none#siwuxie%7CNi2W.love%40xray.com
-
-
 `
 
 let urls = [];
