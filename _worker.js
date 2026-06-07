@@ -17,8 +17,8 @@ let MainData = `
 vless://a6f9848d-1549-49a3-acd1-62483914a202@144.202.53.154:44207?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.org&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&type=tcp&headerType=none#LN-clone
 vless://57d19911-36d3-4398-fb7e-ae385d24da82@45.76.75.72:47000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#shenVULTR%7C3nGj.love%40xray.com-clone
 vless://7c6ea48f-02f5-4655-b7f3-8b5988ee41a4@96.45.188.130:40000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=hHlDJO_EZuNZryvEwMtwU14wnPoigSdCvQ7OGVLZmX4&sid=891c04b5&spx=%2F&type=tcp&headerType=none#%E6%90%AC%E7%93%A6%E5%B7%A5-LNL-clone
-vless://a97c5536-dec2-47f7-9062-9ae3587ef5d0@64.176.211.140:41007?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&type=tcp&headerType=none#siwuxie%7CNi2W.love%40xray.com-clone
 vless://9dc09fad-390a-4988-cf0e-5b50d2a31e46@104.244.93.111:45731?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.org&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#SYB%7C5rf1.love%40xray.com-clone
+vless://fd6fb519-c86b-4c97-c4c8-facc7ece8cf3@173.199.93.236:48123?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#siwuxie%7CJPkz.love%40xray.com
 `
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
