@@ -14,11 +14,12 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `vless://a6f9848d-1549-49a3-acd1-62483914a202@144.202.53.154:44413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.org&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&type=tcp&headerType=none#LN-clone
-vless://7c6ea48f-02f5-4655-b7f3-8b5988ee41a4@96.45.188.130:40000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=hHlDJO_EZuNZryvEwMtwU14wnPoigSdCvQ7OGVLZmX4&sid=891c04b5&spx=%2F&type=tcp&headerType=none#%E6%90%AC%E7%93%A6%E5%B7%A5-LNL-clone
+vless://7c6ea48f-02f5-4655-b7f3-8b5988ee41a4@96.45.188.130:44448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=hHlDJO_EZuNZryvEwMtwU14wnPoigSdCvQ7OGVLZmX4&sid=891c04b5&spx=%2F&type=tcp&headerType=none#%E6%90%AC%E7%93%A6%E5%B7%A5-LNL-clone
 vless://9dc09fad-390a-4988-cf0e-5b50d2a31e46@104.244.93.111:45731?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.org&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#SYB%7C5rf1.love%40xray.com-clone
 vless://fd6fb519-c86b-4c97-c4c8-facc7ece8cf3@173.199.93.236:48123?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#siwuxie%7CJPkz.love%40xray.com
 vless://381c81ba-60f6-491a-fc01-7fb886601039@104.194.73.199:17762?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#SYBBWG%7CoEcH.love%40xray.com
 vless://751bb299-4573-4992-85c6-df1c879b3673@45.63.56.244:44445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.org&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#LNL%7CBHpY.love%40xray.com
+
 `
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
